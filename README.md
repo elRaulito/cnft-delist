@@ -27,5 +27,7 @@ We do the same thing but using the listing address, be 100% of what the listing 
   `102([0, [h'FB2CD544A148D0BBC70C9863E3448224EE95C3DB699F864F8D6305E2', h'3342CA8C073A11B7664BD105123353E79C01116CC465915133FDCF75', 102([0, [249999000000, 20]]), 102([1, []])]])`
 
 
+Run the code on your browser and...
+
 # Ta-Dà! Delisted.
 
